@@ -1,5 +1,5 @@
 # Basic Data Analytics
 
-##- Download repo
-##- Run main.py
-##- Done
+## - Download repo
+## - Run main.py
+## - Done
